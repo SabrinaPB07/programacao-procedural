@@ -1,0 +1,15 @@
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\bin\Debug\net8.0\ex02.exe
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\bin\Debug\net8.0\ex02.deps.json
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\bin\Debug\net8.0\ex02.dll
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\bin\Debug\net8.0\ex02.pdb
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.sourcelink.json
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.dll
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.pdb
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista3\ex02\obj\Debug\net8.0\ref\ex02.dll
