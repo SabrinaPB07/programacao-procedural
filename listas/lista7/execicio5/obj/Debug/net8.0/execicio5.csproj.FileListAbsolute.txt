@@ -1,0 +1,15 @@
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\bin\Debug\net8.0\execicio5.exe
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\bin\Debug\net8.0\execicio5.deps.json
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\bin\Debug\net8.0\execicio5.runtimeconfig.json
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\bin\Debug\net8.0\execicio5.dll
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\bin\Debug\net8.0\execicio5.pdb
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.AssemblyInfoInputs.cache
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.AssemblyInfo.cs
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.csproj.CoreCompileInputs.cache
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.sourcelink.json
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.dll
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\refint\execicio5.dll
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.pdb
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\execicio5.genruntimeconfig.cache
+C:\Users\Valesca\Desktop\programacao-procedural\listas\lista7\execicio5\obj\Debug\net8.0\ref\execicio5.dll
